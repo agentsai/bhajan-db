@@ -9,7 +9,7 @@ A terminal-based C application to manage a database of bhajans with fields like 
 - Avoid duplicates
 - Save and load from `bhajans_db.txt`
 - Display sorted list of bhajans
-
+- Use the bhajans_db.txt as the input file.
 ## Compilation
 ```bash
 make
