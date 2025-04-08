@@ -1,0 +1,17 @@
+# Ignore compiled binary
+bhajan-db
+
+# Editor files
+*.swp
+*.swo
+*.bak
+
+# MacOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Backup files
+*~
+
